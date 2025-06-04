@@ -49,7 +49,7 @@ This `Text` component wraps `react-native`'s `Text` component to enforce consist
 ## 🧩 Usage
 
 ```tsx
-import Text from './components/Text';
+import Text from '@julioedi/montserrat-text';
 
 export default function App() {
     return (
