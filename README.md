@@ -131,17 +131,6 @@ YourFontName-700.ttf
 
 ---
 
-## 📁 File Overview
-
-```txt
-components/
-└── Text.tsx       # Main component
-assets/fonts/
-└── Montserrat-*.ttf  # Font files
-```
-
----
-
 ## 🧪 Example with Custom Font and Variant
 
 ```tsx
