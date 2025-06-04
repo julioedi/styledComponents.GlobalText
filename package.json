@@ -18,6 +18,14 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julioedi/styledComponents.GlobalText"
+  },
+  "bugs": {
+    "url": "https://github.com/julioedi/styledComponents.GlobalText/issues"
+  },
+  "homepage": "https://github.com/julioedi/styledComponents.GlobalText#readme",
   "scripts": {
     "build": "tsc"
   },
