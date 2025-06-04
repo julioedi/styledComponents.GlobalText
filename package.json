@@ -1,6 +1,17 @@
 {
-  "name": "rn-montserrat-text",
+  "name": "styled-components-global-text",
   "version": "1.0.0",
+  "description": "A customizable React Native Text component using the Montserrat font, supporting size variants and font weights.",
+  "keywords": [
+    "react-native",
+    "text",
+    "typography",
+    "font",
+    "montserrat",
+    "custom-text",
+    "styled-component",
+    "julioedi"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
