@@ -1,4 +1,4 @@
-import { Component, ReactNode } from "react";
+import React,{ Component, ReactNode } from "react";
 import { Text as CoreText, StyleSheet, TextStyle } from "react-native";
 import { FontVariant, fontWeightType, TextProps } from "./types";
 
