@@ -1,6 +1,6 @@
 {
   "name": "@julioedi/montserrat-text",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A customizable React Native Text component using the Montserrat font, supporting size variants and font weights.",
   "keywords": [
     "react-native",
@@ -34,10 +34,11 @@
   },
   "peerDependencies": {
     "react": ">=17",
-    "react-native": ">=0.64"
+    "react-native": ">=0.64"  
   },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
   },
   "license": "MIT",
   "dependencies": {
