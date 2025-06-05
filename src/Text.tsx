@@ -8,6 +8,7 @@ class Text extends Component<TextProps> {
         Text.FontName = name;
     }
     static variants: FontVariant = {
+        xs:8,
         tiny: 10,
         small: 12,
         body: 14,
